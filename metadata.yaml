@@ -1,0 +1,31 @@
+_repo: Nummisuutarit_11152
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kivi, Aleksis
+    aliases:
+    - Kivi, Alexis
+    - Kiwi, Aleksis
+    - Stenvall, Aleksis
+    birthdate: 1834
+    deathdate: 1872
+    gutenberg_agent_id: '3865'
+    url: http://www.gutenberg.org/2009/agents/3865
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aleksis_Kivi
+    - http://fi.wikipedia.org/wiki/Aleksis_Kivi
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11152'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Finnish drama'
+- GITenberg
+title: Nummisuutarit
+url: http://www.gutenberg.org/ebooks/11152
